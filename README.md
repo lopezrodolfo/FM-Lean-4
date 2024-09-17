@@ -1,4 +1,4 @@
-# Natural Numbers Implementation and Proofs in Lean
+# Natural Numbers Implementation and Proofs in Lean3
 
 This Lean project contains implementations and proofs of various properties of natural numbers, including:
 
